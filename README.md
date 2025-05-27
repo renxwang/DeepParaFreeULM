@@ -1,3 +1,3 @@
 # DeepParaFreeULM
-This is the repository for the paper "Towards Parameter-free Ultrasound Localization Microscopy by Vision Transformer".
-The code will come soon!
+This is the repository for the paper "Automated Microbubble Discrimination in Ultrasound Localization Microscopy by Vision Transformer".
+DOI: 10.1109/TUFFC.2025.3570496
